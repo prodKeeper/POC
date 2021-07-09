@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHmtRsXffacQqt6Y1n3HaDGrjAe/HO2gGWYcdLo+1hhY6eOKH1d31pMsABe5twFzLGj/l51M9xBQO67A3L4qWw==",
+  "success": true,
+  "projectFilePath": "/home/xavier/Source/prodKeeper/POC/POC.VirtualFileSystem/SMBLibrary/SMBLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/xavier/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.netframework.referenceassemblies.net20/1.0.0/microsoft.netframework.referenceassemblies.net20.1.0.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.netframework.referenceassemblies.net40/1.0.0/microsoft.netframework.referenceassemblies.net40.1.0.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+/home/xavier/Downloads/SMBLibrary-master/Utilities/bin/Debug/net40/Utilities.dll
+/home/xavier/Downloads/SMBLibrary-master/Utilities/bin/Debug/net40/Utilities.pdb
+/home/xavier/Downloads/SMBLibrary-master/Utilities/obj/Debug/net40/Utilities.csproj.CoreCompileInputs.cache
+/home/xavier/Downloads/SMBLibrary-master/Utilities/obj/Debug/net40/Utilities.dll
+/home/xavier/Downloads/SMBLibrary-master/Utilities/obj/Debug/net40/Utilities.pdb
+/home/xavier/Source/SMBLibrary/Utilities/bin/Debug/net40/Utilities.dll
+/home/xavier/Source/SMBLibrary/Utilities/bin/Debug/net40/Utilities.pdb
+/home/xavier/Source/SMBLibrary/Utilities/obj/Debug/net40/Utilities.csproj.CoreCompileInputs.cache
+/home/xavier/Source/SMBLibrary/Utilities/obj/Debug/net40/Utilities.dll
+/home/xavier/Source/SMBLibrary/Utilities/obj/Debug/net40/Utilities.pdb

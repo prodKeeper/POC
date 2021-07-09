@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCutw2p0++AakYqzxpUkLHoVMYVvKbq7D3iMJU+edzqmTmGsN11CwrbY+uMffZpOQzd6X4Al2Ryurvqjho84Yg==",
+  "success": true,
+  "projectFilePath": "/home/xavier/Source/prodKeeper/POC/POC.VirtualFileSystem/Utilities/Utilities.csproj",
+  "expectedPackageFiles": [
+    "/home/xavier/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.netframework.referenceassemblies.net20/1.0.0/microsoft.netframework.referenceassemblies.net20.1.0.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.netframework.referenceassemblies.net40/1.0.0/microsoft.netframework.referenceassemblies.net40.1.0.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

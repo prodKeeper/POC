@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-PocSMB-686F0533-83B1-43A2-98A0-C9D5EC008611</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PocSMB.Adapters\PocSMB.Adapters.csproj" />
+    <ProjectReference Include="..\SMBLibrary\SMBLibrary.csproj" />
+  </ItemGroup>
+</Project>

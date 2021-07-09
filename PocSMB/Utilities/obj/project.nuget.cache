@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxzeqmcmaCrHXIYwSmdan43yydc8ARsd0OhX/hpR96TXyUxhOMLYw2vGdwAvqYmf7c3MXqPjxK+0krwsUOrHkA==",
+  "success": true,
+  "projectFilePath": "/home/xavier/Source/PocSMB/Utilities/Utilities.csproj",
+  "expectedPackageFiles": [
+    "/home/xavier/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

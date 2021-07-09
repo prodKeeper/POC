@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/xavier/Source/PocSMB/PocSMB/PocSMB.csproj": {}
+  },
+  "projects": {
+    "/home/xavier/Source/PocSMB/PocSMB.Adapters/PocSMB.Adapters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/xavier/Source/PocSMB/PocSMB.Adapters/PocSMB.Adapters.csproj",
+        "projectName": "PocSMB.Adapters",
+        "projectPath": "/home/xavier/Source/PocSMB/PocSMB.Adapters/PocSMB.Adapters.csproj",
+        "packagesPath": "/home/xavier/.nuget/packages/",
+        "outputPath": "/home/xavier/Source/PocSMB/PocSMB.Adapters/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/xavier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj": {
+                "projectPath": "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/xavier/Source/PocSMB/PocSMB/PocSMB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/xavier/Source/PocSMB/PocSMB/PocSMB.csproj",
+        "projectName": "PocSMB",
+        "projectPath": "/home/xavier/Source/PocSMB/PocSMB/PocSMB.csproj",
+        "packagesPath": "/home/xavier/.nuget/packages/",
+        "outputPath": "/home/xavier/Source/PocSMB/PocSMB/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/xavier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/xavier/Source/PocSMB/PocSMB.Adapters/PocSMB.Adapters.csproj": {
+                "projectPath": "/home/xavier/Source/PocSMB/PocSMB.Adapters/PocSMB.Adapters.csproj"
+              },
+              "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj": {
+                "projectPath": "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.16, 3.1.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj": {
+      "version": "1.4.6.1",
+      "restore": {
+        "projectUniqueName": "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj",
+        "projectName": "SMBLibrary",
+        "projectPath": "/home/xavier/Source/PocSMB/SMBLibrary/SMBLibrary.csproj",
+        "packagesPath": "/home/xavier/.nuget/packages/",
+        "outputPath": "/home/xavier/Source/PocSMB/SMBLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/xavier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/home/xavier/Source/PocSMB/Utilities/Utilities.csproj": {
+                "projectPath": "/home/xavier/Source/PocSMB/Utilities/Utilities.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/xavier/Source/PocSMB/Utilities/Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/xavier/Source/PocSMB/Utilities/Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "/home/xavier/Source/PocSMB/Utilities/Utilities.csproj",
+        "packagesPath": "/home/xavier/.nuget/packages/",
+        "outputPath": "/home/xavier/Source/PocSMB/Utilities/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/xavier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
